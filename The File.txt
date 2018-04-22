@@ -1,3 +1,4 @@
 Super duper secret project file
 
 Don't tell anyone.
+Rule number 1: Don't talk about git club
