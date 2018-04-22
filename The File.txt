@@ -1,1 +1,3 @@
 Super secret project file
+
+Rule number 1: Don't talk about git club
